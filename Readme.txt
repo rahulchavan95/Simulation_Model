@@ -19,7 +19,7 @@ medical_centre.py-->  It contains the calculation of cumulative probability for 
 
 
 
-How to run this File:------> 
+Usage:------> 
 	type make command on terminal.
 
 	$make
